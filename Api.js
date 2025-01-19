@@ -18,4 +18,4 @@ export const register = async (username, email, password) => {
   return response.json();
 };
 
-// Other APIs (e.g., todos, profile) can be added here.
+
